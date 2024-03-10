@@ -20,7 +20,7 @@ https://issue-tracker-7s7z.onrender.com
  
  <p align= "center">
   <strong>
-   Satish Kumar 
+   Nithin Modiboyana
   </strong>
  </p>
 
