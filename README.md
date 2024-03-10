@@ -16,7 +16,7 @@ To install all the dependences of the project, run the following command:
 
  
 ### Deployment link  or host link
-https://issue-tracker-7s7z.onrender.com
+[click here](https://issue-tracker-hy8d.onrender.com/)
  
  <p align= "center">
   <strong>
